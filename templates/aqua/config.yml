@@ -1,6 +1,6 @@
 name: aqua
 description: |
-  aqua test
-version: 1.0
+  Aqua’s comprehensive, purpose-built platform for container security provides full visibility and control over containerized environments, with tight runtime security controls and intrusion prevention capabilities, at any scale. The platform provides programmatic access to all its functions through an API. For more information, please contact chinasupport@edvancesecurity.com
+version: 2.6.3
 category: aqua
 maintainer: ChinaSupport@edvancesecurity.com
