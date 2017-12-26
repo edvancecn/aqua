@@ -2,3 +2,10 @@
   name: "aqua"
   version: "2.6.3"
   description: "aqua csp 2.6.3"
+  questions:
+    - variable: console_port
+      description: "Port of the management console"
+      label: "Console Port"
+      type: "int"
+      required: true
+      default: "9090"
