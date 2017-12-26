@@ -1,4 +1,5 @@
 .catalog:
-  name: "Aqua"
-  version: "2.6.3"
-  description: "Aqua CSP 2.6.3 on rancher"
+  name: "asciinema-org"
+  version: "0.1-rancher1"
+  description: "Asciinema is a free and open source solution for recording terminal sessions and sharing them on the web."
+  minimum_rancher_version: v0.46.0
