@@ -1,5 +1,5 @@
 name: aqua
-description: test
-version: 1
-maintainer: edvancesecurity
-projectURL: https://github.com/edvancecn/aqua.git
+description: |
+  aqua test
+version: 1.7.3-rancher1
+category: aqua
