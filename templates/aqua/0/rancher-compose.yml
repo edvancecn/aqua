@@ -1,4 +1,4 @@
 .catalog:
-  name: "Elasticsearch"
+  name: "aqua"
   version: "2.6.3"
-  description: "Elasticsearch. You know, for search"
+  description: "aqua csp 2.6.3"
