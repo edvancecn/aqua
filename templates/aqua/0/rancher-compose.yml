@@ -1,19 +1,4 @@
 .catalog:
   name: "Elasticsearch"
-  version: "1.7.1-rancher1"
+  version: "2.6.3"
   description: "Elasticsearch. You know, for search"
-  questions:
-    - variable: cluster_name
-      description: "Unique name to assign to your Elasticsearch cluster."
-      label: "Cluster Name"
-      type: "string"
-      required: true
-      default: "es"
-elasticsearch-masters:
-  metadata:
-    elasticsearch:
-      yml:
-        cluster.name: "${cluster_name}"
-        node.name: "$${HOSTNAME}"
-        node.data: "false"
-        node.master: "true"
