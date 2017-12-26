@@ -13,7 +13,6 @@ services:
     - /var/run/docker.sock:/var/run/docker.sock
     - /tmp/aqua-data:/var/lib/postgresql/data
     ports:
-    - 9090:8080/tcp
-    - 8443:8443/tcp
+    - ${console_port}:8080/tcp
     - 3622:3622/tcp
     user: root
