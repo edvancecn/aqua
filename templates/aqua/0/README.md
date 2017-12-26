@@ -10,5 +10,5 @@ Aqua’s comprehensive, purpose-built platform for container security provides f
 - **Auditing & Compliance:** Track and audit events in your containerized applications, with real-time logging of granular event data and SIEM integration.
 
 #### Usage
-Visit http:\/\/\<hostname\>:\<port\> after launch. 
+Visit http:\/\/\<hostname\>:\<port\> after launch.
 Please contact chinasupport@edvancesecurity.com for trial license.
