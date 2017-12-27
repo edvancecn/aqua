@@ -1,6 +1,6 @@
 name: Aqua
 description: |
   Aqua Container Security Platform
-version: rancher1.3
+version: 2.6.3
 category: Security
 maintainer: ChinaSupport@edvancesecurity.com
