@@ -9,6 +9,7 @@ Aqua’s comprehensive, purpose-built platform for container security provides f
 - **User Access Control:** Fine-grained access control that enforces role-based access privileges at the container level, with full end-user accountability.
 - **Auditing & Compliance:** Track and audit events in your containerized applications, with real-time logging of granular event data and SIEM integration.
 
-#### Usage
-Visit http:\/\/\<hostname\>:\<port\> after launch.
-Please contact chinasupport@edvancesecurity.com for trial license.
+#### Request a Trial
+For Hong Kong and Singapore, please contact support@edvancesecurity.com
+For China, please contact chinasupport@edvancesecurity.com
+For other region, please contact contact@aquasec.com
